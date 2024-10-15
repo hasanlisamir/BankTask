@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nijat\\OneDrive\\Desktop\\DMA06\\BankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF866683-1707-4ED0-8EA6-9A76E2E80552}|BankProject\\BankProject.csproj|c:\\users\\nijat\\onedrive\\desktop\\dma06\\bankproject\\bankproject\\exceptions\\invalidmoneyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF866683-1707-4ED0-8EA6-9A76E2E80552}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\exceptions\\invalidmoneyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF866683-1707-4ED0-8EA6-9A76E2E80552}|BankProject\\BankProject.csproj|c:\\users\\nijat\\onedrive\\desktop\\dma06\\bankproject\\bankproject\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF866683-1707-4ED0-8EA6-9A76E2E80552}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF866683-1707-4ED0-8EA6-9A76E2E80552}|BankProject\\BankProject.csproj|c:\\users\\nijat\\onedrive\\desktop\\dma06\\bankproject\\bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF866683-1707-4ED0-8EA6-9A76E2E80552}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF866683-1707-4ED0-8EA6-9A76E2E80552}|BankProject\\BankProject.csproj|c:\\users\\nijat\\onedrive\\desktop\\dma06\\bankproject\\bankproject\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF866683-1707-4ED0-8EA6-9A76E2E80552}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvalidMoneyException.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\DMA06\\BankProject\\BankProject\\Exceptions\\InvalidMoneyException.cs",
+              "RelativeDocumentMoniker": "BankProject\\Exceptions\\InvalidMoneyException.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\DMA06\\BankProject\\BankProject\\Exceptions\\InvalidMoneyException.cs",
+              "RelativeToolTip": "BankProject\\Exceptions\\InvalidMoneyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:09:18.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\DMA06\\BankProject\\BankProject\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankProject\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\DMA06\\BankProject\\BankProject\\Transaction.cs",
+              "RelativeToolTip": "BankProject\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:21:56.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\DMA06\\BankProject\\BankProject\\Account.cs",
+              "RelativeDocumentMoniker": "BankProject\\Account.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\DMA06\\BankProject\\BankProject\\Account.cs",
+              "RelativeToolTip": "BankProject\\Account.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwDgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:40:29.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\DMA06\\BankProject\\BankProject\\Program.cs",
+              "RelativeDocumentMoniker": "BankProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\DMA06\\BankProject\\BankProject\\Program.cs",
+              "RelativeToolTip": "BankProject\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAQwFsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:38:15.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
